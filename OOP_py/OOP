@@ -1,0 +1,27 @@
+-- What is OOP:
+A programming paradigm that organizes software design around objects.
+
+-- ADVANTAGES OF OOP:
+* Modularity:
+ In object oriented programming, we define certain elements called classes that serve as blueprints.
+These blueprints work like modules because they are sort of isolated or as isolated as possible from
+the outside world.
+This means that they are mostly independent from each other and from other parts of the program.
+So that is a great advantage because any changes can be made easily to only that specific part of the
+code without affecting the overall program.
+
+* Extensibility:
+A third advantage of object oriented programming is extensibility.
+Objects can be extended to include new attributes and behaviors
+We can add new attributes and behavior and extend their functionality.
+These three advantages lead to the fourth advantage that object oriented programming makes your code
+easier to maintain.
+
+
+* Reusability :
+Objects can be reused within the program and in future projects.
+were independent from each other, we can select the ones that we need for a future project and reuse
+their code.
+This leads to faster development and lower cost of development because we save all the resources and
+the time that it would take to write this code again.
+
