@@ -25,3 +25,31 @@ their code.
 This leads to faster development and lower cost of development because we save all the resources and
 the time that it would take to write this code again.
 
+___________
+-- CLASS DEFINITION
+
+The concept of a class is essential in object oriented programming.
+It is an essential building block of any program written with object oriented programming.
+So we can say that a class is like a blueprint that we write in our code to define the attributes or
+characteristics of an object and its behavior.
+
+And what is a class definition?
+Well, a class definition is the actual implementation of a class in a programming language.
+In this case, we are implementing it in Python.
+Particularly the class header, is the first line of a class definition.
+This line specifies the name of the class.
+We explicitly write the name of the class and we also specify if the class inherits from another class.
+
+-- class body
+The class body contains the elements of the blueprint, the elements of the class.
+This is where we define the attributes and the behavior of the objects.
+So we're basically writing a description in the blueprint of what we want the objects to be like and
+what they should be able to do.
+These are the main elements that you will find in a class body.
+Some classes may have all of these elements and some classes may only have some of these elements.
+First we find the class attributes.
+Then we find in it.
+And finally we find the methods.
+
+
+________________
