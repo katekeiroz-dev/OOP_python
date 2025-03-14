@@ -52,4 +52,24 @@ Then we find in it.
 And finally we find the methods.
 
 
+--  instance
+
+An instance is just an object created from the class.
+instances are more concrete.
+We take something that is more abstract and represents the objects in a general way, and we use our
+code to create concrete instances of the class with their own attributes and behaviors that we can use
+in our code.
+In this case, if we have a backpack blueprint, we would create backpack instances or objects in our
+code.
+Instances have attributes and these attributes are called instance attributes.
+They are the attributes of an object.
+
+--
+__init__() METHOD :
+Well, this is a special method that is used to define the initial state of an object.
+It is called automatically when an instance is created.
+When you create an object in your code, this method is called automatically.
+Just like when you call a function, this method is called automatically to initialize the values of
+the attributes of the instance that is being created.
+
 ________________
